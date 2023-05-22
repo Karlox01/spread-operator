@@ -4,7 +4,7 @@ let ages = [30, 26, 27];
 // let mary = ages[1];
 // let joe = ages[2];
 
-let[john, mary,joe] = ages;
+let[john, mary, joe] = ages;
 console.log(john, mary, joe); // This method does not utilize destructing as we have to declare each variable.
 console.log(john)
 
